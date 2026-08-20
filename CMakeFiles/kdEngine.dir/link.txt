@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/kdEngine.dir/link.d CMakeFiles/kdEngine.dir/src/main.c.o CMakeFiles/kdEngine.dir/src/random_splashes.c.o -o kdEngine  _deps/raylib-build/raylib/libraylib.a /usr/lib/x86_64-linux-gnu/libpython3.13.so -lpthread /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/librt.a -lm -ldl -lm
