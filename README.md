@@ -20,3 +20,5 @@ The '[CMakeLists.txt](https://github.com/SasLuca/raylib-cmake-template)' file I'
 Python
 
 raylib 
+
+# I'm confused with Git Bash right now. Sorry. Still learning.
